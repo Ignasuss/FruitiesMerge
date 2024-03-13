@@ -1062,7 +1062,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9607844, g: 0.32941177, b: 0.32941177, a: 1}
+  m_Color: {r: 0, g: 0.02520442, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1335,7 +1335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9607844, g: 0.32941177, b: 0.32941177, a: 1}
+  m_Color: {r: 0, g: 0.0036616325, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2284,6 +2284,6 @@ SceneRoots:
   - {fileID: 2045193480}
   - {fileID: 110315211}
   - {fileID: 824290358}
-  - {fileID: 1087395336}
   - {fileID: 1422916480}
   - {fileID: 343100102}
+  - {fileID: 1087395336}
